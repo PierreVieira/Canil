@@ -1,17 +1,17 @@
 # Canil Python Solution
 
-##Descrição
+## Descrição
 Solução de um problema de lógica em linguagem python.
 O problema foi proposto pela empresa de tecnologia **[DTI DIGITAL](https://www.dtidigital.com.br/)**.
 
-##Links
+## Links
 Para mais detalhes acesse o pdf clicando [aqui](https://drive.google.com/file/d/1Fljvvz29Gs0uOXgTkOuHooR7lJCpPwiD/view?usp=sharing).
  
 Para acessar o meu currículo virtual clique [aqui](https://www.linkedin.com/in/pierre-vieira/).
 
 Para acessar o meu github clique [aqui](https://github.com/PierreVieira).
 
-##Como executar
+## Como executar
 **Requisitos:** É necessário ter o python a partir da versão 3.6 instalado no computador, caso você não o tenha siga esse [vídeo](https://www.youtube.com/user/cursosemvideo)
 do canal [curso em vídeo](https://www.cursoemvideo.com/).
 

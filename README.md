@@ -12,7 +12,7 @@ Para acessar o meu currículo virtual clique [aqui](https://www.linkedin.com/in/
 Para acessar o meu github clique [aqui](https://github.com/PierreVieira).
 
 ## Como executar
-**Requisitos:** É necessário ter o python a partir da versão 3.6 instalado no computador, caso você não o tenha siga esse [vídeo](https://www.youtube.com/user/cursosemvideo)
+**Requisitos:** É necessário ter o python a partir da versão 3.6 instalado no computador, caso você não o tenha recomendo que siga esse [vídeo](https://youtu.be/VuKvR1J2LQE)
 do canal [curso em vídeo](https://www.cursoemvideo.com/).
 
 Tendo o python instalado no seu computador acesse essa pasta em um terminal e digite o comando `python main.py`.<br>
